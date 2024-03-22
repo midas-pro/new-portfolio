@@ -1,0 +1,51 @@
+/* Source for the keyframe animation idea found on https://stackoverflow.com/questions/7988962/continuous-css-rotation-animation-on-hover-animated-back-to-0deg-on-hover-out */
+
+/* .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  } */
+  .Cog {
+    height: auto;
+    width: 50px;
+    display: flex;
+    animation-name: rotate; 
+    animation-duration: 1.5s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  .Cog span {
+    position: absolute;
+    height: 22px;
+    width: 4px;
+    background: #ffe3e3;
+  }
+  #cog-0 {
+    position: absolute;
+    transform: rotate(0deg);
+  }
+  #cog-45 {
+    position: absolute;
+    transform: rotate(45deg);
+  }
+  #cog-90{
+    position: absolute;
+    transform: rotate(90deg);
+  }
+  #cog-135{
+    position: absolute;
+    transform: rotate(135deg);
+  }
+  .loading-text {
+    /* font-family: 'Georgia'; */
+    text-transform: uppercase;
+    font-size: calc(18px + .25vw);
+    padding: 5px;
+    letter-spacing: 3px;
+    color: #2431A9
+  }
+  @keyframes rotate {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+  }

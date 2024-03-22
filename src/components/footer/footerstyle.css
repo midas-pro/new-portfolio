@@ -1,0 +1,24 @@
+/* footer.css */
+.footer-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  background-color: rgb(10, 4, 22);
+  bottom: 0 !important;
+  padding-top: 10px !important;
+  padding-bottom: 8px !important ;
+
+} 
+
+/* .footer {
+  margin-top: auto;
+  background-color: #333; 
+  color: white;
+
+} */
+body {
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
