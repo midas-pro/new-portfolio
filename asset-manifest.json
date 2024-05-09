@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Moonie_Portfolio/static/css/main.f11cc697.css",
+    "main.js": "/Moonie_Portfolio/static/js/main.2e5ca540.js",
+    "static/js/415.1b909aac.chunk.js": "/Moonie_Portfolio/static/js/415.1b909aac.chunk.js",
+    "static/js/787.66844337.chunk.js": "/Moonie_Portfolio/static/js/787.66844337.chunk.js",
+    "static/media/Full-stack-web-developer.png": "/Moonie_Portfolio/static/media/Full-stack-web-developer.8e3e01330d1299c29d71.png",
+    "static/media/e-tek.jpg": "/Moonie_Portfolio/static/media/e-tek.7507509e2b389f62936c.jpg",
+    "static/media/farm4sale.jpg": "/Moonie_Portfolio/static/media/farm4sale.439d03a2d167afb183f9.jpg",
+    "static/media/vipkid.jpg": "/Moonie_Portfolio/static/media/vipkid.76b0291d4f284b47c2d7.jpg",
+    "static/media/threeJS.jpg": "/Moonie_Portfolio/static/media/threeJS.4b64e295f29ffed6fe96.jpg",
+    "static/media/coffeeshop.jpg": "/Moonie_Portfolio/static/media/coffeeshop.2cf7a6c9839d0d3d0176.jpg",
+    "static/media/simplebits.jpg": "/Moonie_Portfolio/static/media/simplebits.bcf8be1cae1ff692cc2e.jpg",
+    "static/media/Sallybeauty.jpg": "/Moonie_Portfolio/static/media/Sallybeauty.3c2ffb7d0c1fe11e795a.jpg",
+    "static/media/coinFarm.jpg": "/Moonie_Portfolio/static/media/coinFarm.4342b85121f1236ed060.jpg",
+    "static/media/boltAni.gif": "/Moonie_Portfolio/static/media/boltAni.38f468a5ecf2891dbb17.gif",
+    "static/media/dinh-avatar.jpg": "/Moonie_Portfolio/static/media/dinh-avatar.2d32221d3aa607a78d91.jpg",
+    "static/media/Dinh.pdf": "/Moonie_Portfolio/static/media/Dinh.6a173204742168638192.pdf",
+    "static/media/logo.jpg": "/Moonie_Portfolio/static/media/logo.c11b5739611c0fc76675.jpg",
+    "index.html": "/Moonie_Portfolio/index.html",
+    "main.f11cc697.css.map": "/Moonie_Portfolio/static/css/main.f11cc697.css.map",
+    "main.2e5ca540.js.map": "/Moonie_Portfolio/static/js/main.2e5ca540.js.map",
+    "415.1b909aac.chunk.js.map": "/Moonie_Portfolio/static/js/415.1b909aac.chunk.js.map",
+    "787.66844337.chunk.js.map": "/Moonie_Portfolio/static/js/787.66844337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f11cc697.css",
+    "static/js/main.2e5ca540.js"
+  ]
+}
