@@ -1,12 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 // import myImg from "../../Assets/avatar.svg";
-import heyy from "../../Assets/wave_hii.gif";
+import heyy from "../../Assets/dinh-avatar.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  AiFillGoogleCircle,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -14,50 +13,30 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
-        <Row>
-          <Col md={8} className="home-about-description">
+        <Row style={{justifyContent:"space-between"}}>
+        <Col md={4} className="myAvtar">
+            <Tilt>
+              <img src={heyy} className="img-fluid my-avatar" alt="avatar" />
+            </Tilt>
+          </Col>
+          <Col md={7} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
-            <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            <span className="home-about-body-description">
+            Seasoned and innovative Full stack developer with 7+ years of experience in designing and developing dynamic web applications.  🤷‍♂️
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> python, Javascript and Java </b> <span> , I guess i could aslo add  </span> <b className="purple" >PHP</b>
-              </i>
+              <br />Proficient in both front-end and back-end technologies and have much passion to learn and challenge new technology.
               <br />
+              <br />Adept at creating responsive and intuitive user interfaces, optimizing application performance, and ensuring cross-browser compatibility.
+              <br />Proven track record of delivering high-quality code on-time and within budget.
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain  UI/UX
-                </b>
-              </i>
+              <br />Excellent problem-solving skills and ability to work effectively in both solo and team environments.
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
-            </p>
+              Committed to delivering robust and scalable web solutions that meet client needs and enhance user experiences.
+            </span>
           </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={heyy} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col>
+         
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
@@ -68,7 +47,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Moon1knight"
+                  href="https://github.com/mister-pro1"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,19 +55,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+            
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/"
+                  href="https://www.linkedin.com/in/%C4%91inh-v%C4%83n-th%E1%BB%83-5593491aa/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -98,14 +68,15 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/"
+                  href="coderdinh@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <AiFillGoogleCircle />
                 </a>
               </li>
+             
             </ul>
           </Col>
         </Row>

@@ -1,0 +1,92 @@
+Name: Đinh Văn Thể
+
+Resume link: 
+https://docs.google.com/document/d/e/2PACX-1vQtnXschtC7rkA0v6bnojOC9nyBXoX-SYLsOrZAOJ1NssX9mTqtXBNcfE1ElpBltMnKBtYYUdXfOZYO/pub
+
+Address: 90/34 Hoang Cau Street Dong Da District, Da Nang, Vietnam
+
+Email: coderdinh@gmail.com
+
+Linkedin: https://www.linkedin.com/in/%C4%91inh-v%C4%83n-th%E1%BB%83-5593491aa/
+
+Github:
+
+Skype: live:.cid.c3b338843db9399
+
+
+
+---- Summary
+
+Seasoned and innovative Full stack developer with 7+ years of experience in designing and developing dynamic web applications. Proficient in both front-end and back-end technologies and have much passion to learn and challenge new technology.  Adept at creating responsive and intuitive user interfaces, optimizing application performance, and ensuring cross-browser compatibility. Proven track record of delivering high-quality code on-time and within budget. Excellent problem-solving skills and ability to work effectively in both solo and team environments. Committed to delivering robust and scalable web solutions that meet client needs and enhance user experiences.
+
+
+----- Tech
+
+1.Frontend
+
+- Framework
+React/Next.js, Sveltekit, Vue.js, Angular, Remix
+- Libraires/API
+jQery, Bootstrap, Webpack, Sass, Tailwind css, Material-UI, Solid.js, Backbone.js, Web3.js/Ether.js, D3.js
+
+2.Backend
+Node.js, Express.js, Hapi.js, Nest.js
+Python, Django
+Golang, Java
+
+3.Database
+Mysql, Redis, PostgreSQL, MongoDB
+
+4.Clouding platform
+Firebase, Supabase, Pocketbase, AWS Lambda, Docker
+
+
+----- Work experience
+
+- Apr 2022 ~ present (Freelancer)
+- Mar 2021 ~ Mar 2022 (Full stack developer - Full time): BAP Software
+  des:
+- Oct 2017 ~ Aug 2020 (Full time freelancer): Luvina JSC
+  des: As a full time freelancer, I have participated in various web projects.
+At that time, I learned lots of tech and especially I have gained lots of experiences in React, Vue, Svelte, Node.js, Go and Java.
+
+
+----- Education
+
+Danang University of Science and Technology
+Engineer's degree, Information Technology · (2010 - 2015)
+
+----- Past work
+1.https://www.vipkid.com.cn/
+ Name: Chinese Online Children Education website
+ Tech: Vue.js
+
+2. https://e-tek.vn/
+ Name: Eletronic Store website
+ Tech: Jqery, Bootstrap
+ Des: In this project, I have worked as a frontend developer. I have participated into building a smart and nice UI/UX using JQery and Bootstrap. This is my perfect project as a freelancer frontend developer. Currently this websites is very famous in Vietnam Eletronic Sales Industry and generating much revenue.
+
+3. https://takecoffeelab.net/
+ Name: CoffeeShop website
+ Tech: Shopify
+
+4.https://farms4sale.eu/
+ Name: Farm Sales website
+ Tech: Jqery, Bootstrap 4, Python/Django
+
+5.coinfarm.online
+ Name: Sound coinfarm website
+ Tech: Next.js, web3.js, Node.js
+
+6.elfontheshelf.com
+ Name:
+ Tech: React, Gatsby, Three.js
+
+7.simplebits.io
+ Name: 
+ Tech: sveltekit, Howler.js, Node.js
+
+8.sallybeauty.com
+ Name:
+ Tech: Vue, Java
+

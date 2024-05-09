@@ -9,7 +9,7 @@ html {
 
 
 .purple {
-  --imp-text-color: #2431a9; 
+  --imp-text-color: #4cb9e4; 
   color: var(--imp-text-color) !important;
 }
 
@@ -247,6 +247,30 @@ button:focus {
 
 .home-header {
   padding-top: 80px !important;
+  background-color: #f5f5f849;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.logo-text{
+  font-size: 1.9rem;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-weight: 600;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+
+
+        1px 18px 6px rgba(16,16,16,0.4),
+        1px 22px 10px rgba(16,16,16,0.2),
+        1px 25px 35px rgba(16,16,16,0.2),
+        1px 30px 60px rgba(16,16,16,0.4);
+  
 }
 
 /* .home-section {
@@ -262,12 +286,13 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: url(./Assets/bg1.gif);
+  background-image: url('https://64.media.tumblr.com/5e8f3002f45277c056d282e52bc5edd9/tumblr_otnow3qfi41si96eio5_1280.gifv');
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 150px !important;
   padding-top: 50px !important;
+  min-height:90vh;
 }
 
 /* Responsive styles */
@@ -314,13 +339,18 @@ button:focus {
 }
 
 .main-name {
-  color:#3789ec;
+  color:white;
+  text-shadow: 1px 1px 2px black, 0 0 15px blue, 0 0 5px darkblue;
+
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #3789ec !important;
+  color: black !important;
   font-weight: 600 !important;
+  font-family: "Segoe Script" !important;
+  text-shadow: 1px 1px 2px rgb(35, 72, 194), 0 0 5px white, 0 0 5px white;
+
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
@@ -360,12 +390,14 @@ button:focus {
   color: white !important;
   padding-top: 100px !important;
   padding-bottom: 20px !important;
+  text-align: left;
+}
+.home-about-description h1{
   text-align: center;
-}footer-wrapper
-
-.home-about-body {
+}
+.home-about-body-description {
   padding-top: 50px;
-  font-size: 1.2em !important;
+  font-size: 1.3rem;
   text-align: left;
 }
 
@@ -543,6 +575,9 @@ button:focus {
   transform: scale(1.02) !important;
   overflow: hidden !important;
   box-shadow: 0 3px 3px 5px rgba(44, 46, 163, 0.65) !important;
+}
+.my-avatar{
+  border-radius: 50%;
 }
 
 .card-img-top {

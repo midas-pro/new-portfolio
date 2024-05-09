@@ -7,26 +7,29 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hey Guys I'm  <span className="purple">B Nitesh </span>
-            from <span className="purple"> AndhraPradesh , India.</span>
+          <p style={{ textAlign: "justify",fontSize:'1.5rem' }}>
+            Hey Guys I'm  <span className="purple">Đinh Văn Thể </span>
+            from <span className="purple"> Da Nang, Vietnam</span>
             <br />
-            <br />
-            I am currently pursuing my Bachelor of Techonolgy at
-            <br />
-            Aditya College of Engineering & Techonolgy , AP
+        
+            I am a fullStack web developer with 7+ years of experiences
+
+  
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Cricket , Kabadi
+              <ImPointRight /> Football Fan
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching Anime 
+              <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Doing Business
             </li>
           </ul>
 
