@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://moon1knight.github.io/Moonie_Portfolio/" target="_blank">Nitesh.Dev</a>
+  <a href="#" target="_blank">Dinh.Dev</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./Images/dinh.png" />
 </div>
 
 <br/>
@@ -27,11 +27,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Moon1knight](https://github.com/Moon1knight). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Dinh](https://github.com/master-pro). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://github.com/Moon1Knight/Moonie_Portfolio" target="_blank">Nitesh.Dev</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://github.com/master-pro" target="_blank">dinh.Dev</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
